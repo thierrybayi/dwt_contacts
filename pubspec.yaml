@@ -1,0 +1,7 @@
+name: dawt_contacts
+version: 0.0.1
+author: Thierry Bayi
+description: A sample web application to manage contacts, using Dart Web Toolikit.
+dependencies:
+  browser: any
+  dart_web_toolkit: any
